@@ -15,5 +15,5 @@ gulp build
 ## Watch
 
 ```sh
-gulp watching
+gulp
 ```
